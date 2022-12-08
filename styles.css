@@ -14,7 +14,7 @@ h1{
 }
 
 .text-light{
-    color:#B8E8DC;
+    color:blue;
 }
 
 .text-center{
@@ -32,3 +32,16 @@ h1{
 .widht-100{
     width: 100px;
 }
+
+.bg-info{
+    background-color: #B1AFFF;
+}
+
+.text-primary{
+    color:#FDFDBD;
+}
+
+.text-white{
+    color:white;
+}
+
