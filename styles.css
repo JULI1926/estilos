@@ -14,7 +14,8 @@ h1{
 }
 
 .text-light{
-    color:blue;
+    -webkit-text-stroke: 2px black;
+     color: transparent;
 }
 
 .text-center{
@@ -34,7 +35,7 @@ h1{
 }
 
 .bg-info{
-    background-color: #B1AFFF;
+    background-color: #97ca97;
 }
 
 .text-primary{
@@ -42,6 +43,7 @@ h1{
 }
 
 .text-white{
-    color:black;
+    background-color: black;
+    color:white;
 }
 
